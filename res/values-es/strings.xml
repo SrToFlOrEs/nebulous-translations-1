@@ -17,7 +17,7 @@
     <string name="PLAY">"JUGAR"</string>
     <string name="OPTIONS">"OPCIONES"</string>
 
-    <string name="Avatar_">"Skin:"</string>
+    <string name="Avatar_">"Piel:"</string>
     <string name="Name_">"Nombre:"</string>
 
     <string name="Loading___">"Cargando…"</string>
@@ -718,7 +718,7 @@
     <string name="Eject">"Expulsar"</string>
     <string name="Eject_Skin">"Skin de masa expulsada"</string>
     <string name="Double_Plasma__">"¡¡Doble plasma!!"</string>
-    <string name="Ends">"Acaba"</string>
+    <string name="Ends">"Finaliza"</string>
     <string name="Select_Clan_Member">"Seleccionar miembros del clan"</string>
     <string name="Inappropriate_Skin">"Skin inapropiada"</string>
     <string name="Approved">"Aprobada"</string>
@@ -766,7 +766,7 @@
 
     <string name="BANNED_PLAYERS">"LISTA NEGRA"</string>
     <string name="MAIL">"CORREO"</string>
-    <string name="WRITE_MAIL">"ESCRIBIR MENSAJE"</string>
+    <string name="WRITE_MAIL">"ESCRIBIR CORREO"</string>
     <string name="Days">"Días"</string>
     <string name="Message">"Mensaje:"</string>
     <string name="Subject">"Asunto:"</string>
@@ -1031,7 +1031,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="CLAN_WAR_HISTORY">HISTORIAL DE GUERRAS DE CLANES</string>
     <string name="Particle">Partícula</string>
     <string name="Privacy">Privacidad</string>
-    <string name="EULA">EULA</string>
+    <string name="EULA">ACUERDO DE LICENCIA</string>
     <string name="You_can_purchase_this_hat_for">Puedes comprar este sombrero por</string>
     <string name="You_can_purchase_this_particle_for">Puedes comprar esta partícula por</string>
     <string name="You_can_purchase_this_eject_skin_for">Puedes comprar esta skin de masa expulsada por</string>
@@ -1073,7 +1073,7 @@ Si tu skin personalizada es reembolsada, no la vuelvas a comprar porque será re
 Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compras una skin con lo siguiente, será reembolsada o rechazada:
 - Contenido y/o alguna referencia Sexual
 - Skins que están en el juego (sin modificar)
-- Contenido Gore/Suicidio
+- Contenido Sangre/Suicidio
 - Desnudos (sin camisa)
 - Skins muy oscuras
 - Skins transparentes
@@ -1083,7 +1083,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
 - Fotos de cuerpo completo
 - Racismo/Nazismo/Violencia
 - Personas usando un arma
-- Señales obscenas con las manos (dedo de enmedio)"
+- Señales obscenas con las manos (dedo del medio)"
     </string>
     <string name="PLAY_ONLINE_">¡JUEGA EN LÍNEA!</string>
 
